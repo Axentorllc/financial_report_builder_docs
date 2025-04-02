@@ -34,7 +34,7 @@ export default defineAppConfig({
 		credits: {
 		  icon: 'material-symbols:electric-bolt',
 		  text: 'Powered by Axentor',
-		  href: 'https://docus.dev',
+		  href: 'https://axentor.co/',
 		},
 	}
   }
